@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderserify",
+        "uuid": 12491550,
+        "checksum": "ps7jr"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
